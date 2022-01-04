@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Danielepintoo
 - 👀 I’m interested in learn about technologies and work on it
-- 🌱 I’m currently learning pyhton and initiation in T.I.
+- 🌱 I’m currently learning about python and initiation in T.I.
 - 💞️ I’m looking to collaborate on python projects and data analysis
 - 📫 How to reach me: on instagram @danielepintoo
 
